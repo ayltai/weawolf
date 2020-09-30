@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WeatherDaily /> renders correctly 1`] = `
+<div
+  aria-describedby={null}
+  className="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-evenly"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title={null}
+>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+  >
+    <p
+      aria-describedby={null}
+      className="MuiTypography-root makeStyles-shadow-2 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title=""
+    >
+      Mon
+    </p>
+    <p
+      aria-describedby={null}
+      className="MuiTypography-root makeStyles-shadow-4 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title=""
+    >
+      48%
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+  >
+    <p
+      aria-describedby={null}
+      className="MuiTypography-root makeStyles-shadow-6 MuiTypography-h4 MuiTypography-noWrap MuiTypography-alignCenter"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title=""
+    >
+      <i
+        className="wi wi-night-alt-cloudy"
+      />
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+  >
+    <p
+      aria-describedby={null}
+      className="MuiTypography-root makeStyles-shadow-8 MuiTypography-caption MuiTypography-noWrap MuiTypography-alignLeft"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      title=""
+    >
+      Partly Cloudy
+    </p>
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"
+  >
+    🥵 [object Object]
+    🥶 [object Object]
+  </div>
+</div>
+`;
+
+exports[`<WeatherDaily /> renders correctly 2`] = `
+<div
+  aria-describedby={null}
+  className="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-justify-xs-space-evenly"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseLeave={[Function]}
+  onMouseOver={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  title={null}
+>
+  <p
+    aria-describedby={null}
+    className="MuiTypography-root makeStyles-shadow-10 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    title=""
+  >
+    Mon
+  </p>
+  <p
+    aria-describedby={null}
+    className="MuiTypography-root makeStyles-shadow-12 MuiTypography-h4 MuiTypography-noWrap MuiTypography-alignCenter"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    title=""
+  >
+    <i
+      className="wi wi-night-alt-cloudy"
+    />
+  </p>
+  <p
+    aria-describedby={null}
+    className="MuiTypography-root makeStyles-shadow-14 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    title="29.7°C"
+  >
+    30°C
+  </p>
+  <p
+    aria-describedby={null}
+    className="MuiTypography-root makeStyles-shadow-16 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    title="22.4°C"
+  >
+    22°C
+  </p>
+  <p
+    aria-describedby={null}
+    className="MuiTypography-root makeStyles-shadow-18 MuiTypography-body2 MuiTypography-noWrap MuiTypography-alignCenter"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+    onTouchEnd={[Function]}
+    onTouchStart={[Function]}
+    title=""
+  >
+    48%
+  </p>
+</div>
+`;
