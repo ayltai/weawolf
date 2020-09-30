@@ -56,11 +56,11 @@ A gorgeous weather app for your Mac, Linux, and Windows.
 
 ## Installation packages
 
-| OS      | Download URL                                                          |
-|---------|-----------------------------------------------------------------------|
-| macOS   | https://github.com/ayltai/weawolf/suites/872277729/artifacts/10155420 |
-| Linux   | https://github.com/ayltai/weawolf/suites/872277729/artifacts/10155419 |
-| Windows | https://github.com/ayltai/weawolf/suites/872277729/artifacts/10155421 |
+| OS      | Download URL                                                           |
+|---------|------------------------------------------------------------------------|
+| macOS   | https://github.com/ayltai/weawolf/suites/1268736189/artifacts/19514687 |
+| Linux   | https://github.com/ayltai/weawolf/suites/1268736189/artifacts/19514686 |
+| Windows | https://github.com/ayltai/weawolf/suites/1268736189/artifacts/19514688 |
 
 ## Development
 
