@@ -86,6 +86,7 @@ const response = {
 };
 
 beforeEach(() => {
+    fetch.resetMocks();
     fetch.mockResponse(async request => {
         if (request.method === 'OPTIONS') return {
             status : 204,
