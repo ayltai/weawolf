@@ -34,7 +34,7 @@
     "devDependencies": {
         "@testing-library/jest-dom": "^5.11.9",
         "@testing-library/react": "^11.2.5",
-        "@testing-library/user-event": "^13.0.1",
+        "@testing-library/user-event": "^13.0.2",
         "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
         "codecov": "^3.8.1",
         "concurrently": "^6.0.0",
