@@ -1,18 +1,17 @@
 import { useTheme, } from '@material-ui/core';
-import Chart from 'chart.js';
+import { Chart, } from 'chart.js';
 import PropTypes from 'prop-types';
 import React from 'react';
 
 export const ChartWrapper = props => {
     const theme = useTheme();
 
-    Chart.defaults.global.defaultColor             = theme.palette.text.primary;
-    Chart.defaults.global.defaultFontColor         = theme.palette.text.primary;
-    Chart.defaults.global.tooltips.backgroundColor = theme.palette.type === 'dark' ? 'rgba(97, 97, 97, 0.9)' : 'rgba(158, 158, 158, 0.9)';
-    Chart.defaults.global.tooltips.titleFontFamily = theme.typography.fontFamily;
-    Chart.defaults.global.tooltips.titleFontSize   = theme.typography.fontSize - 4;
-    Chart.defaults.global.tooltips.bodyFontFamily  = theme.typography.fontFamily;
-    Chart.defaults.global.tooltips.bodyFontSize    = theme.typography.fontSize - 4;
+    Chart.defaults.color                           = theme.palette.text.primary;
+    Chart.defaults.plugins.tooltip.backgroundColor = theme.palette.type === 'dark' ? 'rgba(97, 97, 97, 0.9)' : 'rgba(158, 158, 158, 0.9)';
+    Chart.defaults.plugins.tooltip.titleFontFamily = theme.typography.fontFamily;
+    Chart.defaults.plugins.tooltip.titleFontSize   = theme.typography.fontSize - 4;
+    Chart.defaults.plugins.tooltip.bodyFontFamily  = theme.typography.fontFamily;
+    Chart.defaults.plugins.tooltip.bodyFontSize    = theme.typography.fontSize - 4;
 
     React.useEffect(() => {
         if (props.data.datasets) {
