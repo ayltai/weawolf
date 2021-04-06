@@ -58,7 +58,7 @@
         "chart.js": "^3.0.2",
         "dotenv": "^8.2.0",
         "electron-is-dev": "^2.0.0",
-        "i18next": "^20.1.0",
+        "i18next": "^20.2.0",
         "lodash.throttle": "^4.1.1",
         "menubar": "^9.0.3",
         "moment": "^2.29.1",
