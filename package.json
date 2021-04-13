@@ -37,7 +37,7 @@
         "@testing-library/user-event": "^13.1.2",
         "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
         "codecov": "^3.8.1",
-        "concurrently": "^6.0.1",
+        "concurrently": "^6.0.2",
         "cross-env": "^7.0.3",
         "electron": "^12.0.2",
         "electron-builder": "^22.10.5",
