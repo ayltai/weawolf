@@ -32,7 +32,7 @@
         "package:win": "electron-builder build --win --publish never"
     },
     "devDependencies": {
-        "@testing-library/jest-dom": "^5.11.10",
+        "@testing-library/jest-dom": "^5.12.0",
         "@testing-library/react": "^11.2.6",
         "@testing-library/user-event": "^13.1.2",
         "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
