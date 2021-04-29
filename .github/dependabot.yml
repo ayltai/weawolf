@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    timezone: Asia/Manila
+  open-pull-requests-limit: 99
+  ignore:
+  - dependency-name: "@testing-library/user-event"
+    versions:
+    - 13.0.12
+  - dependency-name: nock
+    versions:
+    - 13.0.9
+  - dependency-name: i18next
+    versions:
+    - 19.9.0
