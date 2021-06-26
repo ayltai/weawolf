@@ -68,7 +68,7 @@
         "react-i18next": "^11.11.0",
         "react-router-dom": "^5.2.0",
         "superagent": "^6.1.0",
-        "unsplash-js": "^7.0.11"
+        "unsplash-js": "^7.0.12"
     },
     "build": {
         "appId": "com.github.ayltai.weawolf",
