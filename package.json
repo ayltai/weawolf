@@ -46,7 +46,7 @@
         "eslint": "^7.30.0",
         "eslint-plugin-react": "^7.24.0",
         "jest-fetch-mock": "^3.0.3",
-        "nock": "^13.1.0",
+        "nock": "^13.1.1",
         "react-scripts": "^4.0.3",
         "react-test-renderer": "^17.0.2",
         "wait-on": "^6.0.0"
